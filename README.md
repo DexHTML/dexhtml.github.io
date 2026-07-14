@@ -1,11 +1,17 @@
 # dexhtml.github.io
 
-Technical GitHub Pages space for domain/search verification and small publishing experiments.
+## Technical GitHub Pages repository
 
-## Published utility
+This repository is used as a technical GitHub Pages space for domain/search verification and small publishing experiments.
 
-- [Free listing generator for Avito and Kufar](https://dexhtml.github.io/tools/generator-obyavleniya/)
-- [Guide: how to sell faster on Avito](https://dexhtml.github.io/guides/kak-prodat-bystree-avito/)
-- [Guide: how to compose a Kufar listing](https://dexhtml.github.io/guides/kak-sostavit-obyavlenie-kufar/)
+It is not the main portfolio project and should not be treated as the central showcase repository.
 
-The main public profile is [DexHTML](https://github.com/DexHTML).
+---
+
+## Current status
+
+**Technical / utility repository**
+
+The main public profile is here:
+
+https://github.com/DexHTML
