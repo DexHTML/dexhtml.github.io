@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title id="title">Проверь перед действием</title>
+  <rect width="120" height="120" rx="28" fill="#2357d8"/>
+  <path d="M60 19 94 32v25c0 22-13 37-34 46C39 94 26 79 26 57V32l34-13Z" fill="#fff" opacity=".98"/>
+  <path d="m43 59 11 11 24-27" fill="none" stroke="#16794c" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
